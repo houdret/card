@@ -1,0 +1,21 @@
+{
+  "name": "@jeanhoudret/card",
+  "version": "1.0.0",
+  "description": "création d'une carte de présentation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "houdret jean-louis",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "color": "^4.1.0",
+    "country-list": "^2.2.0",
+    "express": "^4.17.1",
+    "npxcard": "^0.1.0"
+
+  }
+}
